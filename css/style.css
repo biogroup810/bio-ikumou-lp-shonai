@@ -535,3 +535,6 @@ ul { margin: 0; padding: 0; list-style: none; }
 
 /* 条件セクション：画像差し替え */
 .cond-img { display: block; width: 100%; height: auto; border-radius: 6px; margin-top: 4px; }
+
+/* ヘアサイクル正常化の画像 */
+.cycle-normalize-img { display: block; width: 100%; height: auto; border-radius: 10px; margin: 32px 0 0; }
